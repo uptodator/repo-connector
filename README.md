@@ -1,4 +1,4 @@
-![uptodator](http://python-imgsrv.rhcloud.com/haki28)
+![uptodator](http://python-imgsrv.rhcloud.com/haki28?v=1)
 
 For more details about this cartridge please visit:
  
