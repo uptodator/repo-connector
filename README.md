@@ -1,3 +1,5 @@
+![uptodator](http://python-imgsrv.rhcloud.com/aaa)
+
 For more details about this cartridge please visit:
  
 REPO-CONNECTOR
