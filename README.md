@@ -29,10 +29,10 @@ I will receive
 
 ```
 {
-    "dependencies": {
+    "dependencies": [
         "com.ofg:micro-infra-spring:0.7.1",
         "com.ofg:micro-deps:0.5.2"
-    }
+    ]
 }
 ```
 
